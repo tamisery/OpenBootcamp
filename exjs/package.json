@@ -1,0 +1,12 @@
+{
+  "name": "exjs",
+  "version": "1.0.0",
+  "description": "'mi exerc'",
+  "main": "index.js",
+  "scripts": {
+    "comentar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "saludo"
+  },
+  "author": "tamisery",
+  "license": "ISC"
+}
